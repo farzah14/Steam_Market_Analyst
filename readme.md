@@ -82,9 +82,9 @@ steam_market_analyst.ipynb
 ### 3. You can see the final results of analysis 
 
 ## 📈 Result Analysis & Visualization
-**- Total games by genres**\
-### **- Price games from 2021 - 2025**<br>
-### **- Tren genres the dominance of the "Indie" and "Action" genres during the 2021-2025 period**<br>
-### **- Distribution of free games (Free to Play) compared to paid games (Premium).**<br>
-### **- Price correlation between user and recommendation**<br>
+### **- Total games by genres**
+### **- Price games from 2021 - 2025**
+### **- Tren genres the dominance of the "Indie" and "Action" genres during the 2021-2025 period**
+### **- Distribution of free games (Free to Play) compared to paid games (Premium).**
+### **- Price correlation between user and recommendation**
 ### **- Publishers with Highest Cumulative Game Prices**
