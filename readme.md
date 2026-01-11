@@ -64,3 +64,7 @@ Make sure on your laptop already installed Python 3 and Library is Required.
 ```bash
 pip install pandas numpy matplotlib seaborn aiohttp tqdm sqlalchemy
 ```
+### 4. Run/Open the Notebook 
+```bash
+steam_market_analyst.ipynb
+```
