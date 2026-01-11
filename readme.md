@@ -41,7 +41,26 @@ The dataset used (a_steam_data_2021_2025.csv) contains 65,521 unique entries wit
 
 
 ## 🛠️ Installation and Use
-1. Requirement
+### 1. Clone Repository
+Cloning the repository on your laptop/computer.
+```bash
+git clone https://github.com/farzah14/Steam_Market_Analyst.git
+cd Steam_Market_Analyst
+```
+
+### 2. Create a Python Environment(Recommended) using VENV.
+```bash
+# Create venv
+python -m venv .venv
+
+# Windows:
+.venv\Scripts\activate
+
+# macOS/Linux:
+source .venv/bin/activate
+```
+### 3. Requirement
 Make sure on your laptop already installed Python 3 and Library is Required.
 ```bash
 pip install pandas numpy matplotlib seaborn aiohttp tqdm sqlalchemy
+```
