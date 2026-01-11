@@ -64,7 +64,14 @@ Make sure on your laptop already installed Python 3 and Library is Required.
 ```bash
 pip install pandas numpy matplotlib seaborn aiohttp tqdm sqlalchemy
 ```
-### 4. Run/Open the Notebook 
+### 4. Open the Notebook 
+For see result analysis, fix missing values, and convert type data is required. There is a separation of columns namely Genre, Category, and Developer because there are many values ​​in 1 row.
 ```bash
 steam_market_analyst.ipynb
 ```
+
+
+## Installation Microsoft SQL Server
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+1. Install Microsoft SQL Server(Windows)
+2. Setup your server on your laptop/computer
