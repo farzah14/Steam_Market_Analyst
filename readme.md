@@ -82,6 +82,6 @@ steam_market_analyst.ipynb
 ### 3. You can see the final results of analysis 
 
 ## 📈 Result Analysis & Visualization
-**-Total games by genres**
-**-Price games from 2021 - 2025**
-**-Tren genres, The dominance of the "Indie" and "Action" genres during the 2021-2025 period**
+**- Total games by genres**<br>
+**- Price games from 2021 - 2025**<br>
+**- Tren genres, The dominance of the "Indie" and "Action" genres during the 2021-2025 period**
