@@ -38,4 +38,3 @@ The dataset used (a_steam_data_2021_2025.csv) contains 65,521 unique entries wit
 | `collect_data_v2.py` | Data collection script (used to build/refresh the dataset). |
 | `visualization_steam_market.pbix` | Power BI dashboard file. |
 | `Visualization Steam Market.png` | Preview image/export of the dashboard. |
-| `archive.zip` | Archived outputs/assets (optional). |
