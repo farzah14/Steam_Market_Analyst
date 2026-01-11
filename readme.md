@@ -71,6 +71,6 @@ steam_market_analyst.ipynb
 ```
 
 
-## Installation Microsoft SQL Server![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+## Installation Microsoft SQL Server ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 1. Install Microsoft SQL Server(Windows)
 2. Setup your server on your laptop/computer
