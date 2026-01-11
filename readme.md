@@ -27,3 +27,15 @@ The dataset used (a_steam_data_2021_2025.csv) contains 65,521 unique entries wit
 - categories: Supported features (e.g., Single-player, Multiplayer).
 - developer & publisher: Name of the game developer and publisher.
 - recommendations: Number of user recommendations (popularity indicator).
+
+
+
+## 📂 Repository Structure
+| File / Asset | Description |
+|---|---|
+| `a_steam_data_2021_2025.csv` | Main dataset (Steam market snapshot for 2021–2025). |
+| `steam_market_analyst.ipynb` | Jupyter notebook used for cleaning, exploration, and analysis. |
+| `collect_data_v2.py` | Data collection script (used to build/refresh the dataset). |
+| `visualization_steam_market.pbix` | Power BI dashboard file. |
+| `Visualization Steam Market.png` | Preview image/export of the dashboard. |
+| `archive.zip` | Archived outputs/assets (optional). |
