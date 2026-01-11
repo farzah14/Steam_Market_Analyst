@@ -1,4 +1,4 @@
-# Steam Market Analyst from 2021 to 2025🎮📊
+# Steam Market Analyst from 2021 to 2025🎮
 
 
 
@@ -76,8 +76,12 @@ steam_market_analyst.ipynb
 ### 2. Setup your server on your laptop/computer
 ### 3. Create the database for Accommodate your SQL File
 
-## Installation Power BI ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+## 📊 Installation Power BI
 ### 1. Install Power BI(Windows)
 ### 2. Get data using Microsoft SQL Server and select your Database which has been made
 ### 3. You can see the final results of analysis 
 
+## 📈 Result Analysis & Visualization
+**-Total games by genres**
+**-Price games from 2021 - 2025**
+**-Tren genres, The dominance of the "Indie" and "Action" genres during the 2021-2025 period**
